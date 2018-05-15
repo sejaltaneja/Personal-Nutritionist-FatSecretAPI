@@ -14,3 +14,11 @@ FILES IN THE REPOSITORY
 
 -Files- Normal.pkl, Underweight.pkl, Overweight.pkl, Users.pkl, Diet Plan.pkl
 
+SCREENSHOTS
+
+![screenshot 122](https://user-images.githubusercontent.com/38216174/40045481-0f7c837a-5848-11e8-9f4f-5674b832d52b.png)
+![screenshot 123](https://user-images.githubusercontent.com/38216174/40045462-fe31c5da-5847-11e8-9f14-67ea14595a4f.png)
+![screenshot 124](https://user-images.githubusercontent.com/38216174/40045493-1839bd2a-5848-11e8-9997-d72b7302b691.png)
+![screenshot 125](https://user-images.githubusercontent.com/38216174/40045519-2bf8b078-5848-11e8-9175-8fcf61ea317e.png)
+
+
